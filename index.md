@@ -29,6 +29,6 @@ Notes and recordings of past meetings can be found here:
 ### Meeting 4: Monday, December 7 2020, 3:00 – 4:00pm UTC
 [Notes](/meeting4.html)
 
-[Recordings](https://youtu.be/mX4g1WKdDu0)
+[Recording](https://youtu.be/mX4g1WKdDu0)
 
 #### [Telegram Invite Link](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg)
