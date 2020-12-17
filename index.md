@@ -16,9 +16,12 @@ The next meeting will be on:
 
 ## Past Meetings
 You will find executive summaries, notes and recordings of past meetings here:
-* Meeting 1
-* Meeting 2
-* Meeting 3
+
+Table of contents
+- [Meeting 1](/meeting1.html)
+- [Meeting 2](/meeting2.html)
+- [Meeting 3](/meeting3.html)
+- [Meeting 4](/meeting4.html)
 
 
 ## Telegram Invite Link
