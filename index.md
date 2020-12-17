@@ -3,9 +3,9 @@ Here write what this website is about
 
 ## Upcoming Meetings
 The next meeting will be on:
-Monday, Dec 21, ⋅3:00 – 4:00pm UTC
+### Monday, Dec 21, ⋅3:00 – 4:00pm UTC
 
-### Talking points of upcoming Meetings
+#### Talking points of upcoming Meetings
 
 * Map of Zones
   * Mira Storm
