@@ -1,4 +1,4 @@
-# The ICF user experience working group
+# ICF user experience working group
 Here write what this website is about
 
 ## Upcoming Meetings
