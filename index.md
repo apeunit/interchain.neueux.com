@@ -1,5 +1,5 @@
 # ICF user experience working group
-Here write what this website is about
+Our mission is to highlight the emerging application-level problems that must be addressed to ensure high-quality user experiences (UX) and developer experiences (DX) on an IBC connected Internet of Blockchains. We want to help lead discussions about and improve UX/DX standards through a collaborative, open dialogue.
 
 ## Upcoming Meetings
 The next meeting will be on:
