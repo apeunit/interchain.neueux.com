@@ -31,4 +31,4 @@ Notes and recordings of past meetings can be found here:
 
 [Recordings](https://youtu.be/mX4g1WKdDu0)
 
-## [Telegram Invite Link](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg)
+#### [Telegram Invite Link](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg)
