@@ -5,7 +5,7 @@ Here write what this website is about
 The next meeting will be on:
 ### Monday, Dec 21, ⋅3:00 – 4:00pm UTC
 
-#### Talking points of upcoming Meetings
+#### Talking points of this Meeting
 
 * Map of Zones
   * Mira Storm
