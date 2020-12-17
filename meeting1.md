@@ -105,18 +105,18 @@ Type: Meeting Notes
 
 - **Summary**: Chain ids should have a namespace (like eip155 which describes eth specific chain-ids, or bip122 which describes btc specific chain ids) and then a reference to a specific chain within that reference (like “1” for mainnet ethereum or “cosmoshub-3” for the current cosmos mainnet).
 - **Examples**:
-    - # Ethereum mainnet
+    - Ethereum mainnet
         - eip155:1
-    - # Bitcoin mainnet
+    - Bitcoin mainnet
         - bip122:000000000019d6689c085ae165831e93
-    - # Litecoin
+    - Litecoin
         - bip122:12a765e31ffd4059bada1e25190f6e98
-    - # Cosmos Hub (Tendermint + Cosmos SDK)
+    - Cosmos Hub (Tendermint + Cosmos SDK)
         - cosmos:cosmoshub-2
         - cosmos:cosmoshub-3
-    - # Binance chain (Tendermint + Cosmos SDK; see https://dataseed5.defibit.io/genesis)
+    - Binance chain (Tendermint + Cosmos SDK; see https://dataseed5.defibit.io/genesis)
         - cosmos:Binance-Chain-Tigris
-    - # IOV Mainnet (Tendermint + weave)
+    - IOV Mainnet (Tendermint + weave)
         - cosmos:iov-mainnet
 
 ### **CAIP-5:** [Blockchain Reference for the Cosmos Namespace](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-5.md)
@@ -125,23 +125,23 @@ Type: Meeting Notes
 - Issue:
     - **Currently IBC based denoms breaks this spec**
 - Examples:
-    - # Cosmos Hub (Tendermint + Cosmos SDK)
+    - Cosmos Hub (Tendermint + Cosmos SDK)
         - cosmos:cosmoshub-2
         - cosmos:cosmoshub-3
-    - # Binance chain
+    - Binance chain
         - cosmos:Binance-Chain-Tigris
-    - # IOV Mainnet (Tendermint + Weave)
+    - IOV Mainnet (Tendermint + Weave)
         - cosmos:iov-mainnet
-    - # chain_ids "x", "hash-", "hashed" (are direct)
+    - chain_ids "x", "hash-", "hashed" (are direct)
         - cosmos:x
         - cosmos:hash-
         - cosmos:hashed
-    - # chain_ids "hashed-", "hashed-123" (invalid prefix for the direct definition)
+    - chain_ids "hashed-", "hashed-123" (invalid prefix for the direct definition)
         - cosmos:hashed-c904589232422def
         - cosmos:hashed-99df5cd68192b33e
-    - # chain_id "123456789012345678901234567890123456789012345678" (too long for the direct definition)
+    - chain_id "123456789012345678901234567890123456789012345678" (too long for the direct definition)
         - cosmos:hashed-0204c92a0388779d
-    - # chain_ids " ", "wonderland🧝‍♂️" (invalid character for the direct definition)
+    - chain_ids " ", "wonderland🧝‍♂️" (invalid character for the direct definition)
         - cosmos:hashed-36a9e7f1c95b82ff
         - cosmos:hashed-843d2fc87f40eeb9
 
@@ -150,15 +150,15 @@ Type: Meeting Notes
 - Summary
     - An account is only relevant to the chain on which it exists so it should be packaged together like account_id: account_address + "@" + chain_id
 - Examples
-    - # Ethereum mainnet
+    - Ethereum mainnet
         - 0xab16a96d359ec26a11e2c2b3d8f8b8942d5bfcdb@eip155:1
-    - # Bitcoin mainnet
+    - Bitcoin mainnet
         - 128Lkh3S7CkDTBZ8W7BbpsN3YYizJMp8p6@bip122:000000000019d6689c085ae165831e93
-    - # Cosmos Hub
+    - Cosmos Hub
         - cosmos1t2uflqwqe0fsj0shcfkrvpukewcw40yjj6hdc0@cosmos:cosmoshub-3
-    - # Kusama network
+    - Kusama network
         - 5hmuyxw9xdgbpptgypokw4thfyoe3ryenebr381z9iaegmfy@polkadot:b0a8d493285c2df73290dfb7e61f870f
-    - # Dummy max length (63+1+16+1+47 = 128 chars/bytes)
+    - Dummy max length (63+1+16+1+47 = 128 chars/bytes)
         - bd57219062044ed77c7e5b865339a6d727309c548763141f11e26e9242bbd34@max-namespace-16:xip3343-8c3444cf8970a9e41a706fab93e7a6c4-xxxyyy
 
 ### **CAIP-19:** [Asset Type and Asset ID Specification](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md)
@@ -168,25 +168,25 @@ Type: Meeting Notes
 - **Issues**
     - This doesn’t address an asset once it’s moved away from it’s origin chain. In the SDK the path is namespaced as part of the asset as seen in **[ADR001**: Coin Source Tracing](https://github.com/cosmos/cosmos-sdk/blob/master/docs/architecture/adr-001-coin-source-tracing.md).
 - Example:
-    - # Ether Token
+    - Ether Token
         - eip155:1/slip44:60
-    - # Bitcoin Token
+    - Bitcoin Token
         - bip122:000000000019d6689c085ae165831e93/slip44:0
-    - # ATOM Token
+    - ATOM Token
         - cosmos:cosmoshub-3/slip44:118
-    - # Litecoin Token
+    - Litecoin Token
         - bip122:12a765e31ffd4059bada1e25190f6e98/slip44:2
-    - # Binance Token
+    - Binance Token
         - cosmos:Binance-Chain-Tigris/slip44:714
-    - # IOV Token
+    - IOV Token
         - cosmos:iov-mainnet/slip44:234
-    - # Lisk Token
+    - Lisk Token
         - lip9:9ee11e9df416b18b/slip44:134
-    - # DAI Token
+    - DAI Token
         - eip155:1/erc20:0x6b175474e89094c44da98b954eedeac495271d0f
-    - # CryptoKitties Collectible
+    - CryptoKitties Collectible
         - eip155:1/erc721:0x06012c8cf97BEaD5deAe237070F9587f8E7A266d
-    - # CryptoKitties Collectible ID
+    - CryptoKitties Collectible ID
         - eip155:1/erc721:0x06012c8cf97BEaD5deAe237070F9587f8E7A266d/771769
 
 ## **Proposals**
