@@ -1,5 +1,15 @@
 # ICF user experience working group
-Our mission is to highlight the emerging application-level problems that must be addressed to ensure high-quality user experiences (UX) and developer experiences (DX) on an IBC connected Internet of Blockchains. We want to help lead discussions about and improve UX/DX standards through a collaborative, open dialogue.
+
+## Misson Statement
+Highlight the emerging challenges that must be addressed to ensure high-quality user experiences (UX) and developer experiences (DX) on an IBC connected Internet of Blockchains. We want to build standards and appliations for a better UX/DX  through a collaborative, open dialogue.
+
+This includes:
+* End User Experience
+* Developer Experience
+* Namespacing Chains and Assets
+* Retrieval and storage of cross chain data
+
+Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and build the internet of Blockchains.
 
 ## Upcoming Meetings
 The next meeting will be on:
@@ -7,12 +17,14 @@ The next meeting will be on:
 
 #### Talking points of this Meeting
 
+* DNS for IBC
 * Map of Zones
-  * Mira Storm
-  * maps
+   * Mira Storm
+   * maps
 * Messaging on wallets?
-  * Sunny wants to send a message to all delegators of his validator
-  * This is more of an interface question—would wallets want to start supporting the memo field better?a
+   * Send a messages to all delegators of a validator
+   * This is more of an interface question—would wallets want to start supporting the memo field better?
+* Update on the Registry
 
 ## Past Meetings
 Notes and recordings of past meetings can be found here:
@@ -22,6 +34,8 @@ Notes and recordings of past meetings can be found here:
 
 ### Meeting 2: Friday, November 13 2020, 2:00 – 3:00pm UTC
 [Notes](/meeting2.html)
+
+[Recording](https://www.youtube.com/watch?v=5rCrjdVMYhE&feature=youtu.be)
 
 ### Meeting 3: Monday, November 23 2020, 3:00 – 4:00pm UTC
 [Notes](/meeting3.html)
