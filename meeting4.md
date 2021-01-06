@@ -1,13 +1,3 @@
-# ICF UX group: Meeting 4 - Notes
-
-Created: Dec 9, 2020 2:36 PM
-Created By: Maximilian Blazek
-Last Edited By: Maximilian Blazek
-Last Edited Time: Dec 9, 2020 2:45 PM
-Stakeholders: Emil Wagner
-Status: In Review
-Type: Meeting Notes
-
 # **Fourth Meeting: Monday, Dec 7⋅3:00 – 4:00pm UTC**
 
 ## ApeUnit Stewarding

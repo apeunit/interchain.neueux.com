@@ -1,13 +1,3 @@
-# ICF UX group: Meeting 1 - Notes
-
-Created: Dec 9, 2020 2:45 PM
-Created By: Maximilian Blazek
-Last Edited By: Maximilian Blazek
-Last Edited Time: Dec 9, 2020 3:07 PM
-Stakeholders: Emil Wagner
-Status: In Review
-Type: Meeting Notes
-
 # First Meeting: Thursday, October 29
 
 ## Attending:

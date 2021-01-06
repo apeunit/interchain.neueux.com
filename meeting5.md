@@ -1,10 +1,3 @@
-# Untitled
-
-Created: Jan 6, 2021 12:31 PM
-Created By: Maximilian Blazek
-Last Edited By: Maximilian Blazek
-Last Edited Time: Jan 6, 2021 12:33 PM
-
 # **Fifth Meeting: Monday, Dec 21⋅3:00 – 4:00pm UTC**
 
 ## DNS for IBC

@@ -1,13 +1,3 @@
-# ICF UX group: Meeting 3 - Notes
-
-Created: Dec 9, 2020 2:45 PM
-Created By: Maximilian Blazek
-Last Edited By: Maximilian Blazek
-Last Edited Time: Dec 9, 2020 2:59 PM
-Stakeholders: Emil Wagner
-Status: In Review
-Type: Meeting Notes
-
 # **Third Meeting: Monday, November 23⋅3:00 – 4:00pm UTC**
 
 ## Status update on github discoverability progress

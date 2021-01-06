@@ -1,13 +1,3 @@
-# ICF UX group: Meeting 2 - Notes
-
-Created: Dec 9, 2020 2:45 PM
-Created By: Maximilian Blazek
-Last Edited By: Maximilian Blazek
-Last Edited Time: Dec 9, 2020 3:02 PM
-Stakeholders: Emil Wagner
-Status: In Review
-Type: Meeting Notes
-
 # **Second Meeting: Friday, November 13⋅2:00 – 3:00pm UTC**
 
 - [https://github.com/ChainAgnostic/CAIPs/issues/27](https://github.com/ChainAgnostic/CAIPs/issues/27)
