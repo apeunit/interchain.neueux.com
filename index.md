@@ -13,18 +13,11 @@ Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and bui
 
 ## Upcoming Meetings
 The next meeting will be on:
-### Monday, Dec 21, ⋅3:00 – 4:00pm UTC
+### Monday, January 18 2021, 3:00 – 4:00pm UTC
 
 #### Talking points of this Meeting
 
-* DNS for IBC
-* Map of Zones
-   * Mira Storm
-   * maps
-* Messaging on wallets?
-   * Send a messages to all delegators of a validator
-   * This is more of an interface question—would wallets want to start supporting the memo field better?
-* Update on the Registry
+TBD
 
 ## Past Meetings
 Notes and recordings of past meetings can be found here:
@@ -44,5 +37,8 @@ Notes and recordings of past meetings can be found here:
 [Notes](/meeting4.html)
 
 [Recording](https://youtu.be/mX4g1WKdDu0)
+
+### Meeting 5: Monday, December 21 2020, 3:00 – 4:00pm UTC
+[Notes](/meeting5.html)
 
 #### [Telegram Invite Link](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg)
