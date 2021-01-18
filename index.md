@@ -17,7 +17,26 @@ The next meeting will be on:
 
 #### Talking points of this Meeting
 
-TBD
+*   Chain Registry Updates
+    *   Atlas
+    *   ApeUnit
+        *   [https://github.com/cosmos/registry](https://github.com/cosmos/registry)
+        *   [https://github.com/cosmos/cosmos-registrar](https://github.com/cosmos/cosmos-registrar)
+    *   Starport Network
+        *   Chain ID Claim Reservation
+    *   DID
+*   Block Explorers
+    *   ZTake & [Map of Zones](https://mapofzones.com/)
+    *   Welcome BigDipper
+* [Mobile Development Survey](https://docs.google.com/forms/d/e/1FAIpQLSfS1lBtCBtPtpCzoBfPw78XmIV-V04N0DIrAYcuq0OQJ2kMAw/viewform)
+*   Survey from ApeUnit
+    *   Future topics
+        *   WalletConnect
+        *   Interchain Accounts
+        *   Flutter and Mobile Development
+        *   Groups and Sub-Keys Modules
+        *   Identity
+
 
 ## Past Meetings
 Notes and recordings of past meetings can be found here:
