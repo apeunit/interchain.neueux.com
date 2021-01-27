@@ -13,29 +13,11 @@ Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and bui
 
 ## Upcoming Meetings
 The next meeting will be on:
-### Monday, January 18 2021, 3:00 – 4:00pm UTC
+### Monday, February 1st 2021, 3:00 – 4:00pm UTC
 
 #### Talking points of this Meeting
 
-*   Chain Registry Updates
-    *   Atlas
-    *   ApeUnit
-        *   [https://github.com/cosmos/registry](https://github.com/cosmos/registry)
-        *   [https://github.com/cosmos/cosmos-registrar](https://github.com/cosmos/cosmos-registrar)
-    *   Starport Network
-        *   Chain ID Claim Reservation
-    *   DID
-*   Block Explorers
-    *   ZTake & [Map of Zones](https://mapofzones.com/)
-    *   Welcome BigDipper
-* [Mobile Development Survey](https://docs.google.com/forms/d/e/1FAIpQLSfS1lBtCBtPtpCzoBfPw78XmIV-V04N0DIrAYcuq0OQJ2kMAw/viewform)
-*   Survey from ApeUnit
-    *   Future topics
-        *   WalletConnect
-        *   Interchain Accounts
-        *   Flutter and Mobile Development
-        *   Groups and Sub-Keys Modules
-        *   Identity
+TBD
 
 
 ## Past Meetings
@@ -61,5 +43,10 @@ Notes and recordings of past meetings can be found here:
 [Notes](/meeting5.html)
 
 [Recording](https://youtu.be/VgZf94TaeDA)
+
+### Meeting 6: Monday, January 18 2021, 3:00 – 4:00pm UTC
+[Notes](/meeting6.html)
+
+[Recording](https://youtu.be/yzdg5Ex2sJU)
 
 #### [Telegram Invite Link](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg)
