@@ -1,3 +1,11 @@
+---
+title: Full Notes
+parent: 6. Meeting, Jan 18 2021
+grand_parent: Meeting Notes
+has_children: false
+nav_order: 1
+---
+
 # **Sixth Meeting: Monday, Jan 18⋅3:00 – 4:00pm UTC**
 
 

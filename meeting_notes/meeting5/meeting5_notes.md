@@ -1,3 +1,11 @@
+---
+title: Full Notes
+parent: 5. Meeting, Dec 21 2020
+grand_parent: Meeting Notes
+has_children: false
+nav_order: 1
+---
+
 # **Fifth Meeting: Monday, Dec 21⋅3:00 – 4:00pm UTC**
 
 ## DNS for IBC

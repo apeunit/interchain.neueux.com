@@ -1,3 +1,11 @@
+---
+title: Full Notes
+parent: 3. Meeting, Nov 23 2020
+grand_parent: Meeting Notes
+has_children: false
+nav_order: 1
+---
+
 # **Third Meeting: Monday, November 23⋅3:00 – 4:00pm UTC**
 
 ## Status update on github discoverability progress

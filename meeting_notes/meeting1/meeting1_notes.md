@@ -1,3 +1,11 @@
+---
+title: Full Notes
+parent: 1. Meeting, Oct 29 2020
+grand_parent: Meeting Notes
+has_children: false
+nav_order: 1
+---
+
 # First Meeting: Thursday, October 29
 
 ## Attending:
@@ -47,30 +55,6 @@
 - 3box (Joel)
 - Cosmostation/Stamper (David, …)
 - Starname (Antoine)
-
-## Suggested times to meet *(all of these are suggestions)*
-
-- 7pm CET (4pm ET, 10am PT, 2am KT 😖)
-    - Billy: 10/22, 10/23, 10/26, 10/27, 10/29, 10/30
-    - Antoine: 10/22, 10/23, 10/26, 10/27, 10/29, 10/30
-- 6pm CET (3pm ET, 9am PT, 1am KT 😖)
-    - Billy: 10/30
-    - Antoine: 10/23, 10/26, 10/27, 10/29, 10/30
-    - Emil: 10/27, 10/28, 10/29, 10/30
-- 5pm CET (2pm ET, 8am PT 😖, 12am KT 😖)
-    - Billy: 10/27, 10/30
-    - Antoine: 10/26, 10/28
-    - Emil: 10/27, 10/28, 10/30
-- 4pm CET (1pm ET, 7am PT 😖, 11pm KT 😖)
-    - Billy: 10/20, 10/27/, 10/29, 10/30
-    - Antoine: 10/23, 10/27, 10/28
-    - Emil: 10/27, 10/28, 10/30
-
-## Format
-
-- Does this google doc make sense as a format?
-- Should this go on the forum?
-- A HackMD?
 
 ## **Multi-chain Assets**
 
