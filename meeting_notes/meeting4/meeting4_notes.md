@@ -1,3 +1,11 @@
+---
+title: Full Notes
+parent: 4. Meeting, Dec 7 2020
+grand_parent: Meeting Notes
+has_children: false
+nav_order: 1
+---
+
 # **Fourth Meeting: Monday, Dec 7⋅3:00 – 4:00pm UTC**
 
 ## ApeUnit Stewarding

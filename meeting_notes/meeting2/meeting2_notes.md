@@ -1,3 +1,11 @@
+---
+title: Full Notes
+parent: 2. Meeting, Nov 13 2020
+grand_parent: Meeting Notes
+has_children: false
+nav_order: 1
+---
+
 # **Second Meeting: Friday, November 13⋅2:00 – 3:00pm UTC**
 
 - [https://github.com/ChainAgnostic/CAIPs/issues/27](https://github.com/ChainAgnostic/CAIPs/issues/27)
