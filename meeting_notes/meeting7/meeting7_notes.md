@@ -8,11 +8,13 @@ nav_order: 1
 # Seventh Meeting: Monday, Feb 1⋅3:00 – 4:00pm UTC, Focus Topic: Blockchain Explorers
 
 ## Welcome new members
-* Mira from Map of Zones
-* Rick from Vulcanize
-    * working on Tendermint / Cosmso for a long time
-    * Chain registry with Auctions
+	* Mira from Map of Zones
+	* Rick from Vulcanize
+		* working on Tendermint / Cosmso for a long time
+		* Chain registry with Auctions
+
 ## Updates from other projects (12 mins)
+
 ### Chain working Group (Denis)
 * first call was last week
 * adding new chain ids
