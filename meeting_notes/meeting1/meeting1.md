@@ -2,7 +2,7 @@
 title: 1. Meeting, Oct 29 2020
 parent: Meeting Notes
 has_children: true
-nav_order: 6
+nav_order: 7
 ---
 
 # 1. Meeting, Oct 29 2020

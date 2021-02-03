@@ -25,7 +25,7 @@ Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and bui
 
 ## Upcoming Meetings
 The next meeting will be on:
-### Monday, February 1st 2021, 3:00 – 4:00pm UTC
+### Monday, February 15th 2021, 3:00 – 4:00pm UTC
 
 #### Talking points of this Meeting
 
