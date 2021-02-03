@@ -91,10 +91,10 @@ Mira presenting
 * tool to surface information that isn't otherwise available
 * much easier to tell if a chain-id is legit from looking on map of zones compared to making all of the queries necessary to do the same
 
-### Relayer group needed
+## Relayer group needed
 * set up a relayer chat on discord or telegram and invite initial group + relevant wallets
 
-### Recap & Takeaways (schedule topic specific talks, 10min)
+## Recap & Takeaways (schedule topic specific talks, 10min)
 * Interchain Accounts
     * Keplr / Interchain Berlin
 * Updates from
