@@ -2,7 +2,7 @@ title: "ICF UX WG"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> <i class="fa fa-telegram" style="font-size:30px; margin-right:0.5em" aria-hidden="true"></i> <b>Join us on Telegram</b>:
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> <i class="fa fa-telegram" style="font-size:26px; margin-right:0.5em" aria-hidden="true"></i> <b>Join us on Telegram</b>:
     - "https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg"
   <i class="fa fa-github" style="font-size:30px; margin-right:0.5em"></i> <b>Edit on GitHub</b>:
     - "https://github.com/apeunit/interchain.neueux.com"
