@@ -71,4 +71,4 @@ The next meeting will be on:
 
 
 # Join our discussions!
-<a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-telegram" style="font-size:36px; margin-right:0.5em" aria-hidden="true"></i></a>   <a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-github" style="font-size:40px"></i></a>
+<a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-telegram" style="font-size:36px; margin-right:0.5em" aria-hidden="true"></i></a>   <a href="https://github.com/apeunit/interchain.neueux.com" target="_blank"><i class="fa fa-github" style="font-size:40px"></i></a>
