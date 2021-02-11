@@ -27,9 +27,48 @@ Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and bui
 The next meeting will be on:
 ### Monday, February 15th 2021, 3:00 – 4:00pm UTC
 
-#### Talking points of this Meeting
+#### Agenda
 
-* TBD
+* Welcome new members
+* Updates on existing working tracks
+* Focus topic: InterChain Accounts
+
+
+### Monday, March 1st 2021, 3:00 – 4:00pm UTC 
+
+#### Agenda (TBD)
+
+* Welcome new members
+* Updates on existing working tracks
+* Focus topic: Asset Registry
+
+### Monday, March 15th 2021, 3:00 – 4:00pm UTC
+
+####  Agenda (TBD)
+
+* Welcome new members
+* Updates on existing working tracks
+* Focus topic: Wallets
+
+### Monday, March 29th 2021, 3:00 – 4:00pm UTC
+
+#### Agenda (TBD)
+
+* Welcome new members
+* Updates on existing working tracks
+* Focus topic: Scaffolding tools - Starport
+
+
+### Monday, April 12th 2021, 3:00 – 4:00pm UTC
+
+#### Agenda (TBD)
+
+* Welcome new members
+* Updates on existing working tracks
+* Focus topic: State of the multichain asset support
+
+
+
 
 # Join our discussions!
 <a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-telegram" style="font-size:36px; margin-right:0.5em" aria-hidden="true"></i></a>   <a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-github" style="font-size:40px"></i></a>
