@@ -36,7 +36,7 @@ The next meeting will be on:
 
 ### Monday, March 1st 2021, 3:00 – 4:00pm UTC 
 
-#### Agenda (TBD)
+#### Agenda
 
 * Welcome new members
 * Updates on existing working tracks
@@ -44,7 +44,7 @@ The next meeting will be on:
 
 ### Monday, March 15th 2021, 3:00 – 4:00pm UTC
 
-####  Agenda (TBD)
+####  Agenda
 
 * Welcome new members
 * Updates on existing working tracks
@@ -52,7 +52,7 @@ The next meeting will be on:
 
 ### Monday, March 29th 2021, 3:00 – 4:00pm UTC
 
-#### Agenda (TBD)
+#### Agenda
 
 * Welcome new members
 * Updates on existing working tracks
@@ -61,7 +61,7 @@ The next meeting will be on:
 
 ### Monday, April 12th 2021, 3:00 – 4:00pm UTC
 
-#### Agenda (TBD)
+#### Agenda
 
 * Welcome new members
 * Updates on existing working tracks
