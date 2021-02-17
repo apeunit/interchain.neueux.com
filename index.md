@@ -24,15 +24,7 @@ We focus on:
 Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and build the internet of Blockchains.
 
 ## Upcoming Meetings
-The next meeting will be on:
-### Monday, February 15th 2021, 3:00 – 4:00pm UTC
-
-#### Agenda
-
-* Welcome new members
-* Updates on existing working tracks
-* Focus topic: InterChain Accounts
-
+The next meetings will be:
 
 ### Monday, March 1st 2021, 3:00 – 4:00pm UTC 
 
