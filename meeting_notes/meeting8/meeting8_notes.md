@@ -17,12 +17,16 @@ nav_order: 1
 * Hyung from B-Harvest
 	* follow up progress on ICS-27
 	* Implementation planning for Cosmos Hub Mainnet
+
 ## Updates on existing working tracks
 * Chain Name System - [Proposal Draft](https://docs.google.com/document/d/1sSXKDacJpo8zmcBvbih-cyhft4LtBJv6DH3wkSZYf7o/edit#heading=h.p3w11bgo1zlh)
 * Github Name System
+
 ## Focus topic: Interchain Accounts
+
 ### Josh Chainapsis
 * Presentation
+
 ### Sean King / Interchain GmbH
 * Presentation
 * [Gaia Readiness Checklist](https://github.com/cosmos/gaia/wiki/Hub-Module-Readiness-Checklist:-Interchain-Accounts)
