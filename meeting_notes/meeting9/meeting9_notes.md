@@ -6,14 +6,16 @@ has_children: false
 nav_order: 1
 ---
 
-**Ninth Meeting: Monday MAR 15 3:00 - 4:00pm UTC**
+# Ninth Meeting: Monday MAR 15 3:00 - 4:00pm UTC
 
-# Introduction:
-## Gautier
+## Introduction:
+
+### Gautier
 * Interested in Token denomination
 * Multi-hop assets
 * https://hackmd.io/tboAl4WQQxudWROhHY2kmg?view
-## Ape Unit / Andrea
+
+### Ape Unit / Andrea
 * github chain registry
 * close to complete working version
 * can be executed as a service
@@ -26,7 +28,7 @@ nav_order: 1
 	* if no breaking changes related to the endpoint
 	* using REST endpoints
 
-## Asset registry / Antoine
+### Asset registry / Antoine
 * Share a PDF
 * https://github.com/UCRegistry/asset-directory/tree/main/assets
 	* not really up to date
