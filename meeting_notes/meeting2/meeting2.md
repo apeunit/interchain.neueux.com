@@ -2,7 +2,7 @@
 title: 2. Meeting, Nov 13 2020
 parent: Meeting Notes
 has_children: true
-nav_order: 7
+nav_order: 8
 ---
 
 # 2. Meeting, Nov 13 2020
