@@ -10,14 +10,17 @@ nav_order: 1
 ## Welcome🤝
 * Sam Panter
 	* Multi-Sig Web Application
+	
 ## Updates🚀
 * IBC Token Transfers are eabled
 	* dev.wallet.keplr.app allows transfer over `channel-66`
 * Agoric
 	* Working on a demo to take an ATOM into tesnet and lock into a vault
+	
 ## Wallets: Verifying IBC Assets🙇
 * `gaiad q ibc --help`
 * `gaiad q ibc-transfer --help`
+
 ## Discuss upcoming topics
 * token transfers
 * chain registry

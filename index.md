@@ -26,14 +26,6 @@ Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and bui
 ## Upcoming Meetings
 The next meetings will be:
 
-### Monday, March 29th 2021, 3:00 – 4:00pm UTC
-
-####  Agenda
-
-* Welcome new members
-* Updates on existing working tracks
-* Focus topic: Wallets
-
 ### Monday, April 12th 2021, 3:00 – 4:00pm UTC
 
 #### Agenda
