@@ -2,7 +2,7 @@
 title: 6. Meeting, Jan 18 2021
 parent: Meeting Notes
 has_children: true
-nav_order: 4
+nav_order: 5
 ---
 
 # 6. Meeting, Jan 18 2021
