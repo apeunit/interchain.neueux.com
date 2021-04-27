@@ -24,10 +24,13 @@ We focus on:
 Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and build the internet of Blockchains.
 
 ---
+New
+{: .label .label-green }
+{: .d-inline-block }
+## Blogpost: [The Challenges of Multichain Assets](https://interchain.neueux.com/Blog/challenges_multichain_assets.html)
 
 
 
-## New {: .label .label-green } [The Challenges of Multichain Assets](https://interchain.neueux.com/Blog/challenges_multichain_assets.html)
 
 
 ## Upcoming Meetings
