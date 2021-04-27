@@ -1,6 +1,6 @@
 ---
 title: The Challenges of Multichain Assets: an Introduction
-parent: Blog Posts
+parent: Blog
 has_children: false
 nav_order: 1
 ---

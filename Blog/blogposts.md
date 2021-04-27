@@ -1,5 +1,5 @@
 ---
-title: Blog Posts
+title: Blog
 has_children: true
 nav_order: 3
 ---
