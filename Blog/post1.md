@@ -7,6 +7,7 @@ nav_order: 1
 
 
 # The Challenges of Multichain Assets: an Introduction
+
 Cosmos’ grand vision is an [»Internet of Blockchains«](https://cosmos.network/intro#designing-the-internet-of-blockchains) — a vast network of interconnected blockchains, or zones as they are called in the Cosmos ecosystem.
 
 But why have multiple blockchains when one could have all applications on a single, general-purpose chain instead? After all, having multiple applications on a single chain makes it much easier for them to communicate and share data. One answer is competition over resources; applications on the same blockchain must compete for the limited resources the network has available, e.g., block space. Another answer is specialisation. Application specific blockchains—the opposite of general purpose blockchains—are designed for their specific applications and can therefore be optimized much better than any general platform. ([This document has some more arguments](https://github.com/cosmos/cosmos-sdk/blob/master/docs/intro/why-app-specific.md))
