@@ -1,5 +1,5 @@
 ---
-title: The Challenges of Multichain Assets - an Introduction
+title: The Challenges of Multichain Assets
 parent: Blog
 has_children: false
 nav_order: 1
