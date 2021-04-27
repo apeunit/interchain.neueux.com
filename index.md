@@ -27,6 +27,7 @@ Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and bui
 New
 {: .label .label-green }
 {: .d-inline-block }
+
 ## Blogpost: [The Challenges of Multichain Assets](https://interchain.neueux.com/Blog/challenges_multichain_assets.html)
 
 
