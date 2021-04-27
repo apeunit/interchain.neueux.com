@@ -5,6 +5,7 @@ has_children: true
 nav_order: 1
 ---
 
+![](https://i.imgur.com/5nzttyB.png)
 
 # The Challenges of Multichain Assets: an Introduction
 
