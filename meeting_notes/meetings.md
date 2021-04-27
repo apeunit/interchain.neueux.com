@@ -1,5 +1,5 @@
 ---
-title: 📝 Meeting Notes
+title: Meeting Notes
 has_children: true
 nav_order: 2
 ---
