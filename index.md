@@ -32,6 +32,7 @@ Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and bui
 New
 {: .label .label-green }
 
+
 ### Meeting Notes: [14th Meeting](https://interchain.neueux.com/meeting_notes/meeting14/meeting14_notes.html)
 {: .d-inline-block }
 
