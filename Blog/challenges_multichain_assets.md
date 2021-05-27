@@ -2,7 +2,7 @@
 title: The Challenges of Multichain Assets
 parent: Blog
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 ![](https://i.imgur.com/5nzttyB.png)
