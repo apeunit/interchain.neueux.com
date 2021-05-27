@@ -24,13 +24,22 @@ We focus on:
 Join the  [telegram group](https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg) and build the internet of Blockchains.
 
 ---
+## News
 
-## Blogpost: [The Challenges of Multichain Assets](https://interchain.neueux.com/Blog/challenges_multichain_assets.html)
+### Blogpost: [How to use IBC via gaiad](https://interchain.neueux.com/Blog/how_to_use_ibc_via_gaiad.html)
 {: .d-inline-block }
 
 New
 {: .label .label-green }
 
+### Meeting Notes: [14th Meeting](https://interchain.neueux.com/meeting_notes/meeting14/meeting14_notes.html)
+{: .d-inline-block }
+
+New
+{: .label .label-green }
+
+
+---
 
 ## Upcoming Meetings
 The next meetings will be:
