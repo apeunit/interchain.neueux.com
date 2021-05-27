@@ -38,7 +38,6 @@ New
 New
 {: .label .label-green }
 
-
 ---
 
 ## Upcoming Meetings
