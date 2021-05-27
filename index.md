@@ -35,16 +35,24 @@ New
 ## Upcoming Meetings
 The next meetings will be:
 
-### Monday, May 10th 2021, 3:00 – 4:00pm UTC
+### Tuesday, June 8th 2021, 3:00 – 4:00pm UTC
 
 #### Agenda
 
-* Welcome new members
-* Updates on existing working tracks
-* Focus topic: State of the multichain asset support
+* Pieter from Confio
+* Denis from Starport
 
+### Tuesday, June 22nd 2021, 3:00 – 4:00pm UTC
 
+#### Agenda
 
+* TBD
+
+### Tuesday, July 6th 2021, 3:00 – 4:00pm UTC
+
+#### Agenda
+
+* TBD
 
 # Join our discussions!
 <a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-telegram" style="font-size:36px; margin-right:0.5em" aria-hidden="true"></i></a>   <a href="https://github.com/apeunit/interchain.neueux.com" target="_blank"><i class="fa fa-github" style="font-size:40px"></i></a>
