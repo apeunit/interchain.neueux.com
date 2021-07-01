@@ -33,7 +33,7 @@ New
 {: .label .label-green }
 
 
-### Meeting Notes: [14th Meeting](https://interchain.neueux.com/meeting_notes/meeting14/meeting14_notes.html)
+### Meeting Notes: [15th Meeting](https://interchain.neueux.com/meeting_notes/meeting15/meeting15_notes.html)
 {: .d-inline-block }
 
 New
@@ -44,24 +44,12 @@ New
 ## Upcoming Meetings
 The next meetings will be:
 
-### Tuesday, June 8th 2021, 3:00 – 4:00pm UTC
-
-#### Agenda
-
-* Pieter from Confio
-* Denis from Starport
-
-### Tuesday, June 22nd 2021, 3:00 – 4:00pm UTC
-
-#### Agenda
-
-* TBD
-
 ### Tuesday, July 6th 2021, 3:00 – 4:00pm UTC
 
 #### Agenda
 
 * TBD
+
 
 # Join our discussions!
 <a href="https://t.me/joinchat/E6CkGRrf0A_LswZeG0qvUg" target="_blank"><i class="fa fa-telegram" style="font-size:36px; margin-right:0.5em" aria-hidden="true"></i></a>   <a href="https://github.com/apeunit/interchain.neueux.com" target="_blank"><i class="fa fa-github" style="font-size:40px"></i></a>

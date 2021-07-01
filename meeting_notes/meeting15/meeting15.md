@@ -1,10 +1,10 @@
 ---
-title: 12. Meeting, Apr 26 2021
+title: 15. Meeting, June 8 2021
 parent: Meeting Notes
 has_children: true
-nav_order: 4
+nav_order: 1
 ---
 
-# 12. Meeting, Apr 26 2021
+# 15. Meeting, June 8 2021
 
 No executive summary for this meeting yet, please check out the full notes!
