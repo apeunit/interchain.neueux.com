@@ -14,7 +14,8 @@ nav_order: 1
 ## New Topics:
  * Discuss what further items to include in the Registry (Sunny)
 
-#### Discussion:
+## Discussion 1:
+
 Registry not just useful for verifying chain identity. It's also useful to bootstrap new nodes. Especially automated deployment of new nodes.
 
 * version number, binary location, genesis may seem superfluous but are important if you want to run a node (nowhere else to get all this info in one place)
@@ -25,7 +26,10 @@ Registry not just useful for verifying chain identity. It's also useful to boots
 * ETH TokenLists for Cosmos is needed too
 
 
-#### Discusssion: Best approaches for crawling the network, check if nodes are really active
+## Discusssion 2: 
+
+Best approaches for crawling the network, check if nodes are really active
+
 * Some tools are already out built by the community
 * Adam: relatively easy to get blacklisted by nodes on the P2P port
 * 26656 is usually the only port exposed. security reasons
