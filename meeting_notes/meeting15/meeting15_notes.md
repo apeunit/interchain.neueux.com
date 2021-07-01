@@ -11,9 +11,6 @@ nav_order: 1
 ## Updates:
  * Andrew to discuss latest on Registry
 
-## New Topics:
- * Discuss what further items to include in the Registry (Sunny)
-
 ## Discussion 1:
 
 Registry not just useful for verifying chain identity. It's also useful to bootstrap new nodes. Especially automated deployment of new nodes.
@@ -37,3 +34,6 @@ Best approaches for crawling the network, check if nodes are really active
 * 9090 GRPC mostly used for backends querying nodes, but needs batched requests
 * having a list of 5-6 publicly (i think he means all available ports?) available nodes really helps for ux.
 * Sunny really wants batched RPC requests on 9090, similar to GraphQL would be super useful, since for osmosis a lot of requests are necessary.
+
+## Future Topics:
+ * Discuss what further items to include in the Registry (Sunny)
